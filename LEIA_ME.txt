@@ -1,4 +1,4 @@
-# SIESTA - APLICATIVO PARA RESERVA DE HOSPEDAGEM NO HORÁRIO DE
+SIESTA - APLICATIVO PARA RESERVA DE HOSPEDAGEM NO HORÁRIO DE
 ALMOÇO
 
 Siesta é um sistema web em que os usuários podem reservar quartos no horário de almoço e, também, disponibilizar quartos para locação.
@@ -19,11 +19,12 @@ Exemplos de programas que podem ser usados para rodar:
 Para instalar siga os passos a seguir:
 
 * Abra o seu SGBD - PgAdmin III.
-* Execute o arquivo script.sql localizado na pasta Scripts SQL para criar o banco de dados.
-* Abra sua IDE.
-* Importe o projeto.
-* Crie um projeto no Firebase.
-* Na aba Storage crie a pasta roomImage.
-* Copiei a referência para os arquivos com extensão html.
-* Execute o projeto.
-* Acesse o sistema com o usuário cadastrado no script carga_inicial, o usuário administrador é admin senha: admin
+b) Execute o arquivo script.sql localizado na pasta Scripts SQL para criar o banco de dados.
+d) Abra sua IDE.
+e) Importe o projeto.
+f) Crie um projeto no Firebase.
+g) Na aba Storage crie a pasta roomImage.
+h) Copiei a referência para os arquivos com extensão html.
+i) Execute o projeto.
+j) Acesse o sistema com o usuário cadastrado no script carga_inicial, o usuário administrador é admin senha: admin
+
