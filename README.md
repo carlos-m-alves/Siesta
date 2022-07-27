@@ -1,5 +1,4 @@
-# SIESTA - APLICATIVO PARA RESERVA DE HOSPEDAGEM NO HORÁRIO DE
-ALMOÇO
+# SIESTA - APLICATIVO PARA RESERVA DE HOSPEDAGEM NO HORÁRIO DE ALMOÇO
 
 Siesta é um sistema web em que os usuários podem reservar quartos no horário de almoço e, também, disponibilizar quartos para locação.
 
